@@ -39,7 +39,8 @@ public class Person
 
     internal bool isValidDob(int age)
     {        
-        return age < 0;
+        Console.WriteLine(age);
+        return age >= 0;
     }
 
     internal string getChineseSign(DateTime dob)

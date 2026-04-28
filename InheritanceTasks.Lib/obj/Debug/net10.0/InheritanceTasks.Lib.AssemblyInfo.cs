@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InheritanceTasks.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53eaac50f1cf9d77dba1a947ea0f9d30befe9a70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d2d784c6a8685a2d59cf01a9aa956fc4178f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InheritanceTasks.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InheritanceTasks.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ public class Student : Person
         }
         else
         {
-            _schoolYear = calculateSchoolYear(Age)
+            _schoolYear = calculateSchoolYear(Age);
         }
     }
 

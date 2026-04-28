@@ -14,6 +14,8 @@ public class Person
     public bool Birthday => isBirthday(_dob);
     public string ScreenName => getScreenName(_fname,_sname,_dob);
 
+
+
     public Person(string fname, string sname, string email, string dob)
     {
         _fname = fname;
@@ -22,12 +24,7 @@ public class Person
         _dob = DateTime.Parse(dob);
     }
 
-    public Person(string fname, string sname, string dob)
-    {
-        _fname = fname;
-        _sname = sname;
-        _dob =  DateTime.Parse(dob);
-    }
+    public Person(string fname, string sname, string dob) : this(fname, sname, "", dob) {}
 
     internal int CalculateAge(DateTime dob)
     {

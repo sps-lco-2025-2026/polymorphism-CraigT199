@@ -1,0 +1,12 @@
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\bin\Debug\net10.0\InheritanceTasks.Lib.deps.json
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\bin\Debug\net10.0\InheritanceTasks.Lib.dll
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\bin\Debug\net10.0\InheritanceTasks.Lib.pdb
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.AssemblyInfoInputs.cache
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.AssemblyInfo.cs
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.csproj.CoreCompileInputs.cache
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.sourcelink.json
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.dll
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\refint\InheritanceTasks.Lib.dll
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\InheritanceTasks.Lib.pdb
+C:\Users\tobyc\OneDrive\Documents\GitHub\polymorphism-CraigT199\InheritanceTasks.Lib\obj\Debug\net10.0\ref\InheritanceTasks.Lib.dll

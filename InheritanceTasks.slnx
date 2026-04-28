@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InheritanceTasks.Lib/InheritanceTasks.Lib.csproj" />
+  <Project Path="InheritanceTasks.Test/InheritanceTasks.Test.csproj" />
+</Solution>
